@@ -8,6 +8,7 @@ This folder contains supporting guides, notes, and configuration details for the
 ## Documentation Index
 
 ### 1. Setup Guides
+
 - **Device Setup** (`device-setup.md`)  
   Step-by-step instructions for configuring Raspberry Pi or other devices to display DAKboard.
 
@@ -17,6 +18,7 @@ This folder contains supporting guides, notes, and configuration details for the
 ---
 
 ### 2. Screen Management
+
 - **Screen Design Guidelines** (`screen-design.md`)  
   Tips and best practices for building custom screens for Lowell Makes.  
   (Fonts, branding, layouts, content sources).
@@ -27,6 +29,7 @@ This folder contains supporting guides, notes, and configuration details for the
 ---
 
 ### 3. Billing & Subscription Strategy
+
 - **Billing Notes** (`billing.md`)  
   - Current subscription plan details  
   - Cost optimization (annual billing vs monthly)  
@@ -35,6 +38,7 @@ This folder contains supporting guides, notes, and configuration details for the
 ---
 
 ### 4. Future Enhancements
+
 - Ideas for additional integrations (e.g., shop calendars, event feeds, Slack/Discord announcements).  
 - Potential hardware improvements for displays (mounts, larger monitors, kiosk setups).  
 

@@ -16,7 +16,8 @@ Lowell Makes has been using **DAKboard** for a number of years. Our utilization 
 
 We are very interested in using features available only in the **Plus Plan**, which comes at a small step up in cost. These features could allow us to greatly improve the experience for members.
 
-### Key Plus Plan Benefits:
+### Key Plus Plan Benefits
+
 - **Screen Loops (Flows):** String multiple screens together on a display for more informative and engaging layouts.
 - **Screen Scheduling:** Automate display changes for special events, open houses, and recurring events.
 - **Unlimited Calendars** and faster refresh rates.
@@ -58,21 +59,24 @@ We are very interested in using features available only in the **Plus Plan**, wh
 
 ---
 
-
 ## Project Charter
 
 ### Purpose
+
 Empower the Lowell Makes community to make better use of the DAKboard platform across the makerspace by:
+
 - Enabling engaging, rotating content (calendars, videos, reservation info, announcements).
 - Training shop champions to design effective screens.
 - Providing documentation and processes so all displays deliver value to members.
 
 ### Current Status (Expanded)
+
 - **Plan**: Essentials (monthly billing at $21, 2 custom screens + 3 add-ons).
 - **Devices in use**: 5 (Front Entrance, Front Warehouse, The Studio, LM Projector, plus one unassigned).
 - **App Integrations**: Google Calendar, Google Photos, Google Drive, Instagram.
 
 ### Opportunities
+
 - Switch to **annual billing** for lower per-screen cost.
 - Upgrade to **Plus Plan** for:
   - Screen loops (flows).
@@ -80,7 +84,8 @@ Empower the Lowell Makes community to make better use of the DAKboard platform a
   - Unlimited calendars & integrations.
 - Leverage Raspberry Pi hardware for flexible DIY expansion.
 
-### Example Use Cases
+### Example Use Cases for Plus Features
+
 - Rotate screens showing:
   - Open House schedules.
   - Shop reservation info.
@@ -89,21 +94,23 @@ Empower the Lowell Makes community to make better use of the DAKboard platform a
 - Feature videos, photos, and social feeds to highlight member projects.
 - Standardize layouts (calendar + rotating shop highlights + weather).
 
-
 ### Roles & Responsibilities (By Audience)
 
 #### For Shop Champions
+
 - Design and maintain engaging screens for your shop.
 - Use and contribute to shared templates in the repo.
 - Participate in training sessions and help onboard new users.
 - Ensure your shop’s events and updates are reflected in the display.
 
 #### For Volunteers and Community Members
+
 - Provide event information, calendars, videos, and photos for inclusion.
 - Suggest new features or display ideas to Shop Champions.
 - Share feedback on the clarity, usefulness, and engagement of displays.
 
 #### For Admins / Project Captain (Josh)
+
 - Coordinate overall project direction and task delegation.
 - Manage billing decisions (monthly vs annual, plan upgrades).
 - Maintain repo structure, documentation, and best practices.
@@ -118,6 +125,7 @@ Empower the Lowell Makes community to make better use of the DAKboard platform a
   - Participate in review of screen effectiveness.
 
 ### Process & Documentation
+
 1. **Content Creation**
    - Define screen templates and shared assets in repo/docs.
    - Maintain a “Media Library” for approved graphics and logos.
@@ -135,6 +143,7 @@ Empower the Lowell Makes community to make better use of the DAKboard platform a
    - Feedback loop from members → Shop Champions → Captain.
 
 ### Next Steps (Expanded)
+
 - [ ] Decide on **annual vs monthly billing**.
 - [ ] Consider **Plus Plan upgrade** to enable loops & scheduling.
 - [ ] Define **initial rotating screen loop** for Media Studio display.
