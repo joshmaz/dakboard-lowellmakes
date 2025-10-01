@@ -1,7 +1,3 @@
-# Device Setup
-
-Instructions for configuring Raspberry Pi or other devices to display DAKboard.
-
 # Device Setup (Raspberry Pi + DAKOS)
 
 1) Image SD card with DAKOS (Pi Imager → Digital Signage & Kiosks → DAKboard)

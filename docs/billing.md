@@ -2,8 +2,6 @@
 
 Information on current subscription plan, billing details, and cost optimization strategies.
 
-# Billing & Plans
-
 - Current plan: Essentials (monthly). Track device count vs. screen add-ons.
 - If using loops/scheduling heavily, evaluate Plus.
 - Prefer annual billing if device count stable (cost savings).

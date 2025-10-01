@@ -1,7 +1,3 @@
-# Network & Display Setup
-
-Details on connecting displays, configuring Wi-Fi/LAN, and managing devices remotely.
-
 # Network Setup
 
 - Aim for Wi-Fi signal ≥ -67 dBm; otherwise use Ethernet or relocate AP
