@@ -1,16 +1,74 @@
-DAKboard Project for Lowell Makes
 
-Lowell Makes has been using DAKboard for a number of years. Our utilization has fluctuated, and presently we are at a minimal implementation. I am offering to step up and volunteer to drive this project in a way that brings value to the Lowell Makes community. 
+# DAKboard Project for Lowell Makes
 
-Presently we have a minimal subscription for a total of five devices billed monthly. We have been paying monthly for a number of years, and could probably save money by switching to annual billing.
+Lowell Makes has been using **DAKboard** for a number of years. Our utilization has fluctuated, and presently we are at a minimal implementation. I am offering to step up and volunteer to drive this project in a way that brings value to the Lowell Makes community.
 
-We are very interested in using a number of the features available only in the Plus plan, available for a small step up in service costs. The ability to introduce flows, multiple screens strung together, would allow us to greatly improve the experience for all of our members. Also the ability to use scheduling, for special events, recurring events, really making the displays more pertinent to what is happening in the space.
+---
 
-Some examples of ways we can use additional features: 
+## Current Status
 
-* Scheduling for Open House nights, special events  
-* String multiple screens together on a display to be more informative and engaging
+- **Subscription**: Essentials Plan  
+- **Devices**: 5 total (billed monthly at $21)  
+- **Billing**: Monthly (potential savings if switched to annual billing)
 
-[https://dakboard.freshdesk.com/support/home/](https://dakboard.freshdesk.com/support/home/)
+---
 
-This document shared at [https://docs.google.com/document/d/1BClPX30kSZXb7kZnat0s6Uk3PoqPTs3ppD3qi-m47GE/edit?usp=sharing](https://docs.google.com/document/d/1BClPX30kSZXb7kZnat0s6Uk3PoqPTs3ppD3qi-m47GE/edit?usp=sharing)  
+## Opportunities for Improvement
+
+We are very interested in using features available only in the **Plus Plan**, which comes at a small step up in cost. These features could allow us to greatly improve the experience for members.
+
+### Key Plus Plan Benefits:
+- **Screen Loops (Flows):** String multiple screens together on a display for more informative and engaging layouts.
+- **Screen Scheduling:** Automate display changes for special events, open houses, and recurring events.
+- **Unlimited Calendars** and faster refresh rates.
+
+---
+
+## Example Use Cases
+
+- Schedule **Open House nights** or **special events** directly on displays.  
+- Rotate between **multiple screens** on a single device (e.g., shop updates, calendar, weather, and announcements).  
+- Improve relevance and engagement by tailoring displays to what’s happening in the makerspace.  
+
+---
+
+## Pricing Ramp (Essentials vs Plus)
+
+| Screens | Essentials Plan | Plus Plan |
+|---------|-----------------|-----------|
+| 3       | $11             | **$10** ✅ |
+| 4       | $16             | $16       |
+| 5       | **$21** ✅       | $22       |
+
+*Note: Essentials cheaper at 5 screens, Plus cheaper at 3. Tie at 4.*
+
+---
+
+## Resources
+
+- [DAKboard Support Center](https://dakboard.freshdesk.com/support/home/)  
+
+---
+
+## Next Steps
+
+1. Evaluate **switch to annual billing** for cost savings.  
+2. Consider **upgrade to Plus Plan** to unlock flows and scheduling.  
+3. Identify potential **display loops and event schedules** for Lowell Makes.  
+4. Document **best practices** and manage configurations in this repo.  
+
+---
+
+## Repo Structure
+
+```
+dakboard-lowellmakes/
+├── README.md   # Project overview (this file)
+└── docs/       # Supporting documentation, setup guides, and configuration notes
+```
+
+---
+
+Cheers,  
+Josh Mazgelis  
+Media Studio Captain, Lowell Makes
