@@ -44,9 +44,10 @@ We are very interested in using features available only in the **Plus Plan**, wh
 
 ---
 
-## Resources
+## Helpful Links & Resources
 
 - [DAKboard Support Center](https://dakboard.freshdesk.com/support/home/)  
+- Example screenshots and printouts referenced in the documentation are stored in the `resources/` directory. This folder is not meant to be a general storage area; it simply holds assets referenced by the guides.
 
 ---
 
@@ -71,13 +72,13 @@ Empower the Lowell Makes community to make better use of the DAKboard platform a
 
 ### Current Status (Expanded)
 
-- **Plan**: Essentials (monthly billing at $21, 2 custom screens + 3 add-ons).
+- **Plan**: Essentials (monthly billing at $21, 2 custom screens + 3 add‑ons).
 - **Devices in use**: 5 (Front Entrance, Front Warehouse, The Studio, LM Projector, plus one unassigned).
 - **App Integrations**: Google Calendar, Google Photos, Google Drive, Instagram.
 
 ### Opportunities
 
-- Switch to **annual billing** for lower per-screen cost.
+- Switch to **annual billing** for lower per‑screen cost.
 - Upgrade to **Plus Plan** for:
   - Screen loops (flows).
   - Scheduling (special events, recurring).
@@ -94,53 +95,31 @@ Empower the Lowell Makes community to make better use of the DAKboard platform a
 - Feature videos, photos, and social feeds to highlight member projects.
 - Standardize layouts (calendar + rotating shop highlights + weather).
 
-### Roles & Responsibilities (By Audience)
+### Roles & Responsibilities
 
-#### For Shop Champions
+- **Project Captain (Josh)** – Coordinate overall project direction and task delegation; manage billing decisions (monthly vs annual, plan upgrades); maintain repo structure, documentation, and best practices; review display loops and content schedules with stakeholders.
 
-- Design and maintain engaging screens for your shop.
-- Use and contribute to shared templates in the repo.
-- Participate in training sessions and help onboard new users.
-- Ensure your shop’s events and updates are reflected in the display.
+- **Shop Champions** – Design and maintain engaging screens for their shop; contribute guides and shared templates; participate in training sessions; ensure their shop’s events and updates are reflected in displays.
 
-#### For Volunteers and Community Members
-
-- Provide event information, calendars, videos, and photos for inclusion.
-- Suggest new features or display ideas to Shop Champions.
-- Share feedback on the clarity, usefulness, and engagement of displays.
-
-#### For Admins / Project Captain (Josh)
-
-- Coordinate overall project direction and task delegation.
-- Manage billing decisions (monthly vs annual, plan upgrades).
-- Maintain repo structure, documentation, and best practices.
-- Review display loops and content schedules with stakeholders.
-
-- **Project Captain (Josh)**: Coordinate, document, delegate tasks, manage repo.
-- **Shop Champions**:
-  - Design engaging screens for their shop.
-  - Contribute guides & templates.
-- **Volunteers/Stakeholders**:
-  - Suggest content, provide calendars, videos, and event feeds.
-  - Participate in review of screen effectiveness.
+- **Volunteers / Community Members** – Provide event information, calendars, videos, and photos for inclusion; suggest new features or display ideas; share feedback on the clarity, usefulness, and engagement of displays.
 
 ### Process & Documentation
 
 1. **Content Creation**
-   - Define screen templates and shared assets in repo/docs.
-   - Maintain a “Media Library” for approved graphics and logos.
+   - Define screen templates and shared assets in `docs/`.
+   - Maintain a “Media Library” for approved graphics and logos (outside the scope of this repo).
 
 2. **Configuration Management**
-   - All display configs tracked in GitHub repo.
-   - Versioned “screen definitions” shared for reuse.
+   - Track all display configurations in this GitHub repo.
+   - Version “screen definitions” and templates for reuse.
 
 3. **Training & Onboarding**
-   - Step-by-step guides for creating/editing screens.
-   - Troubleshooting quick reference (based on DAKOS support docs).
+   - Provide step‑by‑step guides for creating and editing screens.
+   - Maintain a troubleshooting guide (see `docs/troubleshooting.md`) based on DAKboard support resources.
 
 4. **Governance**
-   - Regular review of displays by task force.
-   - Feedback loop from members → Shop Champions → Captain.
+   - Conduct regular review of displays by the task force.
+   - Establish a feedback loop from members → Shop Champions → Captain.
 
 ### Next Steps (Expanded)
 
@@ -150,13 +129,21 @@ Empower the Lowell Makes community to make better use of the DAKboard platform a
 - [ ] Draft documentation & style guide.
 - [ ] Train Shop Champions in screen design.
 
-
 ## Repo Structure
 
 ```
 dakboard-lowellmakes/
-├── README.md   # Project overview (this file)
-└── docs/       # Supporting documentation, setup guides, and configuration notes
+├── README.md            # Project overview (this file)
+├── CONTRIBUTING.md      # How to contribute content, screens, and documentation
+├── docs/                # Supporting documentation, setup guides, and configuration notes
+│   ├── index.md         # Documentation index
+│   ├── device-setup.md  # Device setup instructions
+│   ├── network-setup.md # Network & display setup notes
+│   ├── screen-design.md # Screen design guidelines
+│   ├── flows-scheduling.md # Guide for loops and scheduling
+│   ├── billing.md       # Billing & subscription strategy
+│   └── troubleshooting.md # Troubleshooting and FAQ
+├── resources/           # Screenshots and printouts referenced by documentation
 ```
 
 ---

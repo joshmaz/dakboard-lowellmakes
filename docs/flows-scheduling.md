@@ -9,8 +9,8 @@ Guide for setting up screen loops (flows) and scheduling for events and announce
 
 ## Block Scheduling
 
-- Use time-based visibility for Open House nights and special events
-- Keep default “evergreen” content for off-hours
+- Use time‑based visibility for Open House nights and special events
+- Keep default “evergreen” content for off‑hours
 
 ## Cadence
 

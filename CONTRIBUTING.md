@@ -8,16 +8,19 @@ This guide explains how Shop Champions, volunteers, and community members can co
 ## Ways to Contribute
 
 ### 1. Provide Content
+
 - Submit **event information** (Google Calendar entries, flyers, reservation details).  
 - Share **media assets** (photos, videos, graphics) that highlight projects or events.  
 - Suggest new **screen ideas** (rotating schedules, social feeds, project highlights).  
 
 ### 2. Create or Update Screens
+
 - Use the [DAKboard Editor](https://dakboard.com/screens) to build or modify layouts.  
-- Save and document your screen in the repo under `/docs/screens`.  
-- Follow existing **style guidelines** (fonts, colors, layout patterns).  
+- **Export your screen definition** and save it in the repo under `docs/templates/`. Each exported screen should be accompanied by a short `README` describing its purpose.
+- Follow existing **style guidelines** (fonts, colors, layout patterns) in `docs/screen-design.md`.  
 
 ### 3. Submit Changes via GitHub
+
 - Fork or clone the repo.  
 - Add your screen definition, template, or documentation.  
 - Open a **Pull Request** with a short description of your changes.  
@@ -36,6 +39,7 @@ This guide explains how Shop Champions, volunteers, and community members can co
 ---
 
 ## Best Practices
+
 - Keep screens clear and easy to read from a distance.  
 - Use **loops** and **scheduling** (Plus plan feature) to rotate relevant content.  
 - Reuse existing templates where possible for consistency.  
@@ -44,6 +48,7 @@ This guide explains how Shop Champions, volunteers, and community members can co
 ---
 
 ## Getting Help
+
 - Check the [DAKboard Support Center](https://dakboard.freshdesk.com/support/home/).  
-- See `/docs/troubleshooting.md` for common issues.  
+- See `docs/troubleshooting.md` for common issues.  
 - Ask questions in the Lowell Makes Media Studio channel.  
